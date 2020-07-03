@@ -45,6 +45,11 @@ footer p {
   margin: 16px;
   float: left;
 }
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px #FFF inset;
+}
+
 .note h1 {
   font-size: 1.1em;
   margin-bottom: 6px;
@@ -61,6 +66,7 @@ footer p {
   float: right;
   margin-right: 10px;
   color: #f5ba13;
+  background-color: #fff;
   border: none;
   width: 36px;
   height: 36px;
