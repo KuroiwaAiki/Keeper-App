@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Keeper-App/static/css/main.5ca1cbe0.chunk.css",
+    "main.css": "/Keeper-App/static/css/main.ef27e67a.chunk.css",
     "main.js": "/Keeper-App/static/js/main.b8ecb3a9.chunk.js",
     "main.js.map": "/Keeper-App/static/js/main.b8ecb3a9.chunk.js.map",
     "runtime-main.js": "/Keeper-App/static/js/runtime-main.708f22ef.js",
@@ -8,15 +8,15 @@
     "static/js/2.876a9757.chunk.js": "/Keeper-App/static/js/2.876a9757.chunk.js",
     "static/js/2.876a9757.chunk.js.map": "/Keeper-App/static/js/2.876a9757.chunk.js.map",
     "index.html": "/Keeper-App/index.html",
-    "precache-manifest.0eac43e24cc82b02824650b59c1bfd33.js": "/Keeper-App/precache-manifest.0eac43e24cc82b02824650b59c1bfd33.js",
+    "precache-manifest.3b08b6b0e290a65eaabf6e3c2c84c95a.js": "/Keeper-App/precache-manifest.3b08b6b0e290a65eaabf6e3c2c84c95a.js",
     "service-worker.js": "/Keeper-App/service-worker.js",
-    "static/css/main.5ca1cbe0.chunk.css.map": "/Keeper-App/static/css/main.5ca1cbe0.chunk.css.map",
+    "static/css/main.ef27e67a.chunk.css.map": "/Keeper-App/static/css/main.ef27e67a.chunk.css.map",
     "static/js/2.876a9757.chunk.js.LICENSE.txt": "/Keeper-App/static/js/2.876a9757.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.708f22ef.js",
     "static/js/2.876a9757.chunk.js",
-    "static/css/main.5ca1cbe0.chunk.css",
+    "static/css/main.ef27e67a.chunk.css",
     "static/js/main.b8ecb3a9.chunk.js"
   ]
 }
